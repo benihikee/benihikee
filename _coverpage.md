@@ -1,5 +1,5 @@
 # Benihikee
 
-> STEAM
+> ChatGPT
 
-[Reading](README.md)
+[ChatGPT](README.md)
